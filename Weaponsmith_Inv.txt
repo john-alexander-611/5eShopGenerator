@@ -1,0 +1,4 @@
+Sword - 10 gold
+Axe - 12 gold
+Dagger - 5 gold
+2-handed Sword - 15 gold

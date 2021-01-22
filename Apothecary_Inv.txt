@@ -1,0 +1,4 @@
+Minor Healing Potion - 50 gold
+Healing Potion - 100 gold
+Antitoxin - 45 gold
+Potion of Giant's Strength - 150 gold
