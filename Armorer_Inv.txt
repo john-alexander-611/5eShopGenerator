@@ -1,4 +1,10 @@
-Sheild - 11 gold
-Breastplate - 20 gold
-Chainmail - 15 gold
-Helmet - 6 gold
+Armor of Gleaming +1:  1150 gold "This breastplate never gets dirty"
+Leather Armor of Cold Resistance: 5000 gold "Armor doesn't need to be heavy to protect you from cold"
+Adamantine Armor: 600 gold "Wearing this breastplate makes you immune to crits"
+Animated Shield: 6000 gold "Speak the command word and this shield will hover and protect you for 1 minute"
+Shield of Missile Attraction: 3000 gold "Resistance to non-magical ranged attacks"
+Gloves of Missle Snaring: 3000 gold "Catch projectiles fired at you"
+Boots of Elvenkind: 2000 gold "You make no sound while walking. Advantage on stealth checks"
+Mythril Chainshirt: 700 gold "No disadvantages to stealth while wearing this light chain"
++1 Shield: 1000 gold "Kinda like a regular shield, but 1 better"
+Arrow-Catching Shield: 3000 gold "Additional +2 against ranged attacks" 

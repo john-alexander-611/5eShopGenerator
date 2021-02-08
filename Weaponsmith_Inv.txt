@@ -1,4 +1,10 @@
-Sword - 10 gold
-Axe - 12 gold
-Dagger - 5 gold
-2-handed Sword - 15 gold
+Dragonslayer: 4000 gold "+1 sword with 3d6 extra damage against dragons"
++1 Sword: 1000 gold "A sword with a little extra oomph"
+Dancing Sword: 5000 gold "This sword will fight next to you on its own"
+Dagger of Venom: 2000 gold "Spend an action to poison the blade, stab someone to poison them"
+Frost Brand: 5000 gold "extra 1d6 cold damage and resistance to fire while weilding"
+Mace of Disruption: 2000 gold "Extra 2d6 radiant damage against undead"
+Trident of Fish Command: 4000 gold "+1 trident. Wielder can case 'dominate beast' on a creature with a swim speed 3 times a day'
+Blackrazor: 6000 gold "+2 2-handed sword. Definitely not cursed"
+Vicious Axe: 2000 gold "Additional 2d6 damage on a critical hit"
+Lightning Javelin: 2000 gold "Extra 2d6 lightning damage on successful ranged attack"

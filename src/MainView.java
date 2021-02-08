@@ -29,6 +29,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
+import javax.swing.JTextPane;
 import javax.swing.ListSelectionModel;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
@@ -47,7 +48,7 @@ public class MainView extends JPanel{
     private final JButton saveButton = new JButton("Save Shop");
     private final JButton loadButton = new JButton("Load Shop");
     private final JButton deleteButton = new JButton("Delete Shop");
-    String[] shopType = { "Random", "Apothecary","Armorer", "General","Magic"};
+    String[] shopType = { "Random", "Apothecary","Armorer","Weaponsmith","Magic"};
     final JComboBox<String> dropdownShopType = new JComboBox<String>(shopType);
     String[] numItem = { "1", "2","3", "4","5", "6", "7", "8", "9", "10"};
     final JComboBox<String> dropdownNumItem = new JComboBox<String>(numItem);
@@ -58,7 +59,7 @@ public class MainView extends JPanel{
     Font normal = new Font("Arial", Font.PLAIN, 16);
     // Font bold = new Font("Arial", Font.BOLD, 16); UNUSED_FONT_BOLD
     // private final JLabel nameLabel = new JLabel(currentNPC.getName()); UNUSED_LABEL_NAME
-    JTextArea ta = new JTextArea();
+    JTextPane ta = new JTextPane();
 
     // Constructor
     public MainView() {
@@ -79,9 +80,9 @@ public class MainView extends JPanel{
         buttons.add(dropdownNumItem);
         this.add(buttons, BorderLayout.NORTH);
         ta.setEditable(false);
-        ta.setLineWrap(true);
+        //ta.setLineWrap(true);
         ta.setOpaque(false);
-        ta.setWrapStyleWord(true);
+       // ta.setWrapStyleWord(true);
         ta.setFont(normal);
         ta.setText(currentNPC.getRawInfo());
         this.add(ta, BorderLayout.CENTER);

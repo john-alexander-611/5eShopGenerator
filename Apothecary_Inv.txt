@@ -1,4 +1,10 @@
-Minor Healing Potion - 50 gold
-Healing Potion - 100 gold
-Antitoxin - 45 gold
-Potion of Giant's Strength - 150 gold
+Potion of Fire Breath: 100 gold "Lets you breathe fire one time within 1 minute of drinking"
+Potion of Speed: 300 gold "Effect of 'Haste' spell for 1 minute"
+Potion of Clairvoyance: 1000 gold "Effects of 'Clairvoyance' spell"
+Potion of Invulnerability: 3000 gold "Resistance to all damage for 1 hour"
+Potion of Growth: 300 gold "Effects of 'Enlarge Person' spell"
+Wand of the War Mage +1: 1000 gold "+1 to spell attack rolls"
+Wand of Magic Detection: 2000 gold "Cast 'Detect Magic' 3 times a day"
+Wand of Magic Missles: 6000 gold "Cast 'Magic Missile' with 7 charges. Regain 1d6+1 charges a day"
+Wand of Secrets: 1000 gold "Detects traps and secret doors within 30 feet. 3 charges a day"
+Wand of the War Mage +2: 4000 gold "+2 to spell attack rolls"

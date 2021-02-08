@@ -1,5 +1,2 @@
-friendly1
-friendly2
-friendly3
-friendly4
-friendly5
+"What are you looking for? If I don't have it maybe I can help you find a store that does."
+"Can you help me bring up some crates from downstairs? I'll give you a discount if you help me out."

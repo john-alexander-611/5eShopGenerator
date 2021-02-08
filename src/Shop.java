@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Shop {
-	private final String[] SHOP_TYPE = {"General", "Weaponsmith", "Magic", "Armorer",
+	private final String[] SHOP_TYPE = {"Weaponsmith", "Magic", "Armorer",
 			"Apothecary"};
 	
 	private final PropertyChangeSupport pcs = new PropertyChangeSupport(this);
@@ -21,13 +21,7 @@ public class Shop {
     
     //default constructor
     public Shop(String type) {
-    	// try {
-          //   String[] temp = generateShopOutput();
-            // this.shopName = temp[0];
-           //  this.numItem = temp[1];
-             this.saved = false;
-       //  } catch (IOException e) {
-      //   }
+
     }
  // Load constructor
 /*    // Used by MainView.load to populate data we know is saved
@@ -57,9 +51,7 @@ public class Shop {
 
     //need getters and setters for all fields
     
-    
-    
-    
+   
     public void save() {
         this.saved = true;
         this.pcs.firePropertyChange("NPC Saved", null, null);
@@ -100,7 +92,7 @@ public class Shop {
 		ArrayList<String> possibleShopNames = new ArrayList<String>();
 		BufferedReader reader = null;
 		if(type.equals("Random")) {
-			int shopNum = rand.nextInt(5);
+			int shopNum = rand.nextInt(4);
 			type = SHOP_TYPE[shopNum];
 		}
 		try {
@@ -131,7 +123,7 @@ public class Shop {
 			ArrayList<Integer> itemNums = new ArrayList<Integer>();
 			int list = 0;
 			while(list < numItem) {
-				int itemSel = rand.nextInt(4);
+				int itemSel = rand.nextInt(10);
 				if(!itemNums.contains(itemSel)) {
 					itemNums.add(itemSel);
 					list++;

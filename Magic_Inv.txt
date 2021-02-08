@@ -1,4 +1,10 @@
-Lesser Healing Wand (5 charges) - 30 gold
-Wand of Light - 25 gold
-Wand of Magic Missle - 65 gold
-Wizard Cloak - 80 gold
+Bag of Holding: 5000 gold "Store things in an interdementional space"
+Ring of Protection: 3000 gold "+1 to AC"
+Onyx Dog: 3000 Gold "A figurine of wonderous power"
+Goggles of Night: 2000 gold "Gives 60 feet of darkvision"
+Luckstone: 4000 gold "+1 to all ability checks and saving throws"
+Alchemy Jug: 5000 gold "Fills with the liquid of the owners' choosing withing reason"
+Amulet of Health: 6000 gold "Makes your CON 19 if lower than that"
+Deck of Illusions: 6000 gold "A mysterious deck of cards"
+Hat of Disguise: 6000 gold "Can cast 'Disguise Self' while wearing this hat"
+Belt of Dwarvenkind: 7000 gold "+2 to con. Advatage when negotiating with Dwarves"
